@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Proyecto con node js ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuxusTrek/Hotel_Guide.git"
+  },
+  "author": "Luis Carlos Camacho Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuxusTrek/Hotel_Guide/issues"
+  },
+  "homepage": "https://github.com/LuxusTrek/Hotel_Guide#readme"
+}
