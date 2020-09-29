@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: darkgoldenrod;
+    color: black;
+}
+
+.footer{
+    padding: 10px 10px 0 10px;
+    background-color: darkgoldenrod;
+    margin-bottom: 0px;
+}
