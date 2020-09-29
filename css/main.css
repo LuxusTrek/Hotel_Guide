@@ -1,5 +1,5 @@
 .jumbotron{
-    background-color: yellow;
+    background-color: blueviolet;
     color: black;
 }
 .card-hotel{
@@ -10,9 +10,12 @@
 .btn-reserve{
     width: 100%;
 }
+.margin_top{
+    margin-top: 15px;
+}
 footer{
     padding: 10px, 10px, 0, 10px;
-    background-color: yellow;
+    background-color: blueviolet;
     margin-bottom: 0px;
     margin-top: 25px;
 }
