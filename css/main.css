@@ -3,12 +3,14 @@
     color: black;
 }
 .card-hotel{
-    flex: 1 150px;
-    padding: 2px 5px 2px 5px;
+    flex: 1 200 px;
+    
+    margin-top: 10px;
     
 }
 .btn-reserve{
     width: 100%;
+    padding-bottom: 3px;
 }
 .margin_top{
     margin-top: 15px;
