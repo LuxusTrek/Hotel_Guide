@@ -7,6 +7,9 @@
     margin-top: 10px;
     
 }
+.bg-navbar{
+    background-color: #101010 !important;
+}
 .btn-reserve{
     width: 100%;
     padding-bottom: 3px;
